@@ -10,3 +10,9 @@ Some facts about me:
 - ~8 years programming experience
 - Currently working on an online backgammon game
 
+---
+
+- [X] Completed the "Getting Started with Github" module
+- [X] Established university plan 
+- [ ] Finished online backgammon
+  
